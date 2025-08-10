@@ -1,0 +1,33 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.weather-container {
+  background-image:url(https://previews.123rf.com/images/joeyphoto12345/joeyphoto123451912/joeyphoto12345191200003/135126361-blue-sky-white-cloud-white-background-beautiful-sky-and-clouds-in-the-afternoon.jpg);
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 100%;
+  margin: auto;
+  width: 60vw; 
+  height: 80vh;
+}
+
+input {
+  padding: 8px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 8px 12px;
+  margin-top: 5px;
+  background-color: #d49d5d;
+}
+
+.weather-info {
+  margin-top: 15px;
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+}
